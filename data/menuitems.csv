@@ -1,0 +1,9 @@
+Restaurant,ItemID,ItemName,Price,Type,Quantity,Rating
+KFC,101,Zinger Burger,250.00,Non-Veg,50,4.5
+KFC,102,Hot Wings,300.00,Non-Veg,100,4.7
+KFC,103,Fries,120.00,Veg,200,4.2
+A2B,201,Ghee Roast Dosa,150.00,Veg,80,4.8
+A2B,202,Mini Tiffin,180.00,Veg,60,4.6
+Pizza Hut,301,Margherita Pizza,450.00,Veg,40,4.4
+Pizza Hut,302,Pepperoni Pizza,550.00,Non-Veg,35,4.6
+Thalapakatti,401,Mutton Biryani,400.00,Non-Veg,70,4.9
