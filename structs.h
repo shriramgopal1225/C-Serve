@@ -98,4 +98,12 @@ typedef struct {
     float total;
 } Cart;
 
+typedef struct {
+    char restaurantName[MAX_NAME_LENGTH];
+    char managerName[MAX_NAME_LENGTH];
+    char loginId[MAX_USERNAME_LENGTH];
+    char password[MAX_PASSWORD_LENGTH];
+    char number[MAX_PHONE_NUMBER_LENGTH];
+} Manager;
+
 #endif
