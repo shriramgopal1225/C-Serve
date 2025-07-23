@@ -74,7 +74,6 @@ int menutofile(const char *restaurantName, MenuItem2 menu[], int menu_size)
     }
 
     char buffer[512];
-    int is_header = 1;
 
     // Copy header
     if (fgets(buffer, sizeof(buffer), fin))
