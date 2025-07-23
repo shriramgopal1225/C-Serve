@@ -7,5 +7,7 @@
 
 // This is the main entry point for the manager side of the application
 void handleManagerSession();
+void manager_menu(Manager* loggedInManager);
+int menutofile(const char* restaurantName, MenuItem2 menu[], int menu_size);
 
 #endif
