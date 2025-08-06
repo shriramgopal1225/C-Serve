@@ -8,7 +8,7 @@ CFLAGS = -g -Wall
 TARGET = c_serve
 
 # List all the .c files that will be part of our project
-SOURCES = main.c user_management.c app_logic.c location_logic.c cart_logic.c
+SOURCES = main.c user_management.c app_logic.c location_logic.c cart_logic.c manager_logic.c
 
 # This line automatically creates the list of .o files from the .c files
 OBJECTS = $(SOURCES:.c=.o)

@@ -147,7 +147,7 @@ void payment(Cart *cart, User* loggedInUser) {
     }
 }
 
-int menufromfile(char *search_restaurant, MenuItem2 menu[], int *menu_size) {
+int menufromfile(const char *search_restaurant, MenuItem2 menu[], int *menu_size) {
     FILE *file = fopen("data/menuitems.csv", "r");
     if (file == NULL) {
         printf("Error: Could not open menu file 'data/menuitems.csv'.\n");

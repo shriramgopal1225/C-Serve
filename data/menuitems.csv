@@ -1,121 +1,121 @@
-Restaurant       , ItemID, ItemName                  , Price , Type   , Quantity, Rating
-Flower Drum      ,    101, Chilli Chicken Dry        , 280.00, Non-Veg,       40,    4.6
-Flower Drum      ,    102, Manchow Soup              , 150.00, Veg    ,       60,    4.4
-Flower Drum      ,    103, Schezwan Fried Rice       , 250.00, Veg    ,       50,    4.5
-Flower Drum      ,    104, Hakka Noodles             , 240.00, Veg    ,       50,    4.3
-Flower Drum      ,    105, Veg Spring Rolls          , 200.00, Veg    ,       70,    4.2
-Thalapakatti     ,    111, Mutton Biryani            , 420.00, Non-Veg,       60,    4.9
-Thalapakatti     ,    112, Chicken Biryani           , 350.00, Non-Veg,       80,    4.8
-Thalapakatti     ,    113, Chicken 65                , 290.00, Non-Veg,       70,    4.7
-Thalapakatti     ,    114, Mutton Sukka              , 380.00, Non-Veg,       50,    4.8
-Thalapakatti     ,    115, Mutton Kola Urundai       , 350.00, Non-Veg,       45,    4.9
-KFC              ,    121, Zinger Burger             , 250.00, Non-Veg,      100,    4.5
-KFC              ,    122, 8pc Hot Wings             , 450.00, Non-Veg,       80,    4.7
-KFC              ,    123, Popcorn Chicken           , 180.00, Non-Veg,      120,    4.6
-KFC              ,    124, Veg Strips                , 150.00, Veg    ,       90,    4.1
-KFC              ,    125, Classic Chicken Bucket    , 650.00, Non-Veg,       50,    4.8
-McDonalds        ,    131, McAloo Tikki Burger       ,  90.00, Veg    ,      200,    4.0
-McDonalds        ,    132, Maharaja Mac              , 280.00, Non-Veg,      100,    4.4
-McDonalds        ,    133, Large Fries               , 150.00, Veg    ,      300,    4.3
-McDonalds        ,    134, McFlurry                  , 120.00, Veg    ,      150,    4.5
-McDonalds        ,    135, Chicken McNuggets         , 220.00, Non-Veg,      120,    4.2
-Dominos          ,    141, Margherita Pizza          , 350.00, Veg    ,       80,    4.2
-Dominos          ,    142, Pepperoni Pizza           , 550.00, Non-Veg,       70,    4.6
-Dominos          ,    143, Garlic Breadsticks        , 140.00, Veg    ,      150,    4.4
-Dominos          ,    144, Choco Lava Cake           , 110.00, Veg    ,      200,    4.8
-Dominos          ,    145, Veg Extravaganza          , 580.00, Veg    ,       60,    4.5
-Bilal            ,    201, Mutton Sheek Kebab        , 320.00, Non-Veg,       50,    4.7
-Bilal            ,    202, Tandoori Chicken          , 450.00, Non-Veg,       40,    4.6
-Bilal            ,    203, Butter Naan               ,  60.00, Veg    ,      100,    4.4
-Bilal            ,    204, Paneer Tikka              , 280.00, Veg    ,       60,    4.5
-Bilal            ,    205, Kadai Chicken             , 380.00, Non-Veg,       45,    4.6
-Murugan Idli Shop,    211, 14 Mini Idlis             , 120.00, Veg    ,      150,    4.9
-Murugan Idli Shop,    212, Ghee Podi Dosa            , 160.00, Veg    ,      100,    4.8
-Murugan Idli Shop,    213, Sweet Pongal              ,  90.00, Veg    ,       80,    4.7
-Murugan Idli Shop,    214, Onion Uthappam            , 140.00, Veg    ,       90,    4.6
-Murugan Idli Shop,    215, Jigarthanda               , 100.00, Veg    ,      120,    4.9
-Farzi Cafe       ,    221, Dal Chawal Arancini       , 450.00, Veg    ,       30,    4.5
-Farzi Cafe       ,    222, Tempura Fried Prawns      , 650.00, Non-Veg,       25,    4.6
-Farzi Cafe       ,    223, Chicken Tikka Masala      , 580.00, Non-Veg,       35,    4.7
-Farzi Cafe       ,    224, Butter Naan               , 120.00, Veg    ,       50,    4.3
-Farzi Cafe       ,    225, Virgin Mojito             , 250.00, Veg    ,       80,    4.4
-Pizza Hut        ,    231, Veggie Supreme            , 480.00, Veg    ,       50,    4.3
-Pizza Hut        ,    232, Chicken Tikka Pizza       , 580.00, Non-Veg,       45,    4.5
-Pizza Hut        ,    233, Garlic Bread Supreme      , 180.00, Veg    ,       80,    4.6
-Pizza Hut        ,    234, Spicy Chicken Keema Pizza , 620.00, Non-Veg,       40,    4.7
-Pizza Hut        ,    235, Pepsi                     ,  80.00, Veg    ,      200,    4.0
-A2B              ,    241, Ghee Roast Dosa           , 150.00, Veg    ,      120,    4.8
-A2B              ,    242, Mini Tiffin               , 180.00, Veg    ,      100,    4.6
-A2B              ,    243, Filter Coffee             ,  50.00, Veg    ,      300,    4.9
-A2B              ,    244, Poori Masala              , 120.00, Veg    ,       90,    4.5
-A2B              ,    245, Badam Milk                ,  90.00, Veg    ,      150,    4.7
-Barbeque Nation  ,    301, Non-Veg Grill Buffet      , 899.00, Non-Veg,      200,    4.7
-Barbeque Nation  ,    302, Veg Grill Buffet          , 799.00, Veg    ,      150,    4.6
-Barbeque Nation  ,    303, Cajun Spiced Potato       , 350.00, Veg    ,       80,    4.5
-Barbeque Nation  ,    304, Kulfi Platter             , 250.00, Veg    ,      100,    4.8
-Barbeque Nation  ,    305, Iced Tea                  , 150.00, Veg    ,      120,    4.2
-Steam & Whistles ,    311, Fish and Chips            , 550.00, Non-Veg,       40,    4.5
-Steam & Whistles ,    312, Classic Chicken Burger    , 480.00, Non-Veg,       50,    4.6
-Steam & Whistles ,    313, Arrabbiata Pasta          , 450.00, Veg    ,       60,    4.4
-Steam & Whistles ,    314, Chocolate Milkshake       , 250.00, Veg    ,       70,    4.7
-Steam & Whistles ,    315, New York Cheesecake       , 350.00, Veg    ,       40,    4.8
-J Hind           ,    321, Awadhi Lamb Shank         , 950.00, Non-Veg,       20,    4.8
-J Hind           ,    322, Paneer Lababdar           , 650.00, Veg    ,       30,    4.7
-J Hind           ,    323, Garlic Naan               , 150.00, Veg    ,       50,    4.5
-J Hind           ,    324, Shahi Tukda               , 350.00, Veg    ,       40,    4.9
-J Hind           ,    325, Masala Lassi              , 200.00, Veg    ,       60,    4.6
-Absolute Barbeque,    331, Wish Grill Buffet         , 950.00, Non-Veg,      200,    4.8
-Absolute Barbeque,    332, Brazilian Pineapple Grill , 250.00, Veg    ,      100,    4.7
-Absolute Barbeque,    333, Crispy Corn               , 280.00, Veg    ,       90,    4.6
-Absolute Barbeque,    334, Angoori Gulab Jamun       , 200.00, Veg    ,      120,    4.9
-Absolute Barbeque,    335, Fresh Lime Soda           , 120.00, Veg    ,      150,    4.3
-Taco Bell        ,    401, Crunchy Taco Supreme      , 180.00, Non-Veg,      100,    4.3
-Taco Bell        ,    402, 7-Layer Burrito           , 250.00, Veg    ,       80,    4.4
-Taco Bell        ,    403, Chicken Chalupa           , 220.00, Non-Veg,       90,    4.5
-Taco Bell        ,    404, Cheese Quesadilla         , 280.00, Veg    ,       70,    4.6
-Taco Bell        ,    405, Cinnamon Twists           ,  90.00, Veg    ,      150,    4.2
-Pind             ,    411, Dal Makhani               , 400.00, Veg    ,       60,    4.7
-Pind             ,    412, Butter Chicken            , 550.00, Non-Veg,       50,    4.8
-Pind             ,    413, Tandoori Roti             ,  70.00, Veg    ,      100,    4.4
-Pind             ,    414, Sweet Lassi               , 150.00, Veg    ,       80,    4.6
-Pind             ,    415, Amritsari Kulcha Chole    , 350.00, Veg    ,       70,    4.7
-Burger King      ,    421, Mutton Whopper            , 350.00, Non-Veg,       90,    4.5
-Burger King      ,    422, Veggie Burger             , 180.00, Veg    ,      120,    4.2
-Burger King      ,    423, Chicken Fries             , 200.00, Non-Veg,      100,    4.3
-Burger King      ,    424, Medium Fries              , 130.00, Veg    ,      200,    4.1
-Burger King      ,    425, Thick Shake               , 180.00, Veg    ,      150,    4.6
-Krispy Kreme     ,    431, Original Glazed Doughnut  , 110.00, Veg    ,      200,    4.9
-Krispy Kreme     ,    432, Chocolate Dreamcake       , 150.00, Veg    ,      150,    4.8
-Krispy Kreme     ,    433, Iced Coffee               , 220.00, Veg    ,      100,    4.5
-Krispy Kreme     ,    434, Box of 6 Assorted         , 600.00, Veg    ,       80,    4.9
-Krispy Kreme     ,    435, Chocolate Milkshake       , 250.00, Veg    ,       90,    4.6
-Nescafe          ,    441, Cappuccino                , 180.00, Veg    ,      150,    4.4
-Nescafe          ,    442, Classic Latte             , 190.00, Veg    ,      140,    4.5
-Nescafe          ,    443, Iced Tea                  , 150.00, Veg    ,      120,    4.2
-Nescafe          ,    444, Chicken Tikka Sandwich    , 250.00, Non-Veg,       80,    4.6
-Nescafe          ,    445, Chocolate Muffin          , 130.00, Veg    ,      100,    4.3
-Asia7            ,    501, Sushi Platter             , 800.00, Non-Veg,       30,    4.6
-Asia7            ,    502, Chicken Dim Sum           , 450.00, Non-Veg,       40,    4.7
-Asia7            ,    503, Thai Green Curry          , 550.00, Veg    ,       50,    4.5
-Asia7            ,    504, Chicken Ramen             , 600.00, Non-Veg,       35,    4.8
-Asia7            ,    505, Jasmine Rice              , 200.00, Veg    ,       80,    4.3
-Pakwan           ,    511, Paneer Tikka Masala       , 380.00, Veg    ,       50,    4.5
-Pakwan           ,    512, Veg Biryani               , 350.00, Veg    ,       60,    4.4
-Pakwan           ,    513, Butter Roti               ,  60.00, Veg    ,      100,    4.2
-Pakwan           ,    514, Jeera Rice                , 200.00, Veg    ,       80,    4.3
-Pakwan           ,    515, Gulab Jamun               , 120.00, Veg    ,       90,    4.7
-Udupi Hotel      ,    521, Masala Dosa               , 100.00, Veg    ,      150,    4.3
-Udupi Hotel      ,    522, Plate of Idli             ,  70.00, Veg    ,      200,    4.4
-Udupi Hotel      ,    523, Medu Vada                 ,  80.00, Veg    ,      180,    4.5
-Udupi Hotel      ,    524, Rava Kichadi              ,  90.00, Veg    ,      120,    4.2
-Udupi Hotel      ,    525, Filter Coffee             ,  40.00, Veg    ,      300,    4.8
-Kaithi           ,    531, Parotta with Chicken Salna, 150.00, Non-Veg,      100,    4.7
-Kaithi           ,    532, Kothu Parotta             , 180.00, Non-Veg,       90,    4.8
-Kaithi           ,    533, Egg Dosa                  , 120.00, Non-Veg,      120,    4.5
-Kaithi           ,    534, Chicken Chettinad         , 250.00, Non-Veg,       70,    4.6
-Kaithi           ,    535, Goli Soda                 ,  30.00, Veg    ,      250,    4.2
-Popeyes          ,    541, Classic Chicken Sandwich  , 350.00, Non-Veg,       80,    4.8
-Popeyes          ,    542, Cajun Fries               , 150.00, Veg    ,      150,    4.5
-Popeyes          ,    543, Coleslaw                  , 100.00, Veg    ,      120,    4.2
-Popeyes          ,    544, Signature Biscuits (2pc)  , 120.00, Veg    ,      100,    4.6
-Popeyes          ,    545, Coca-Cola                 ,  80.00, Veg    ,      200,    4.0
+Restaurant,ItemID,ItemName,Price,Type,Quantity,Rating
+Flower Drum,101,Chilli Chicken Dry,280.00,Non-Veg,40,4.6
+Flower Drum,102,Manchow Soup,150.00,Veg,60,4.4
+Flower Drum,103,Schezwan Fried Rice,250.00,Veg,50,4.5
+Flower Drum,104,Hakka Noodles,240.00,Veg,50,4.3
+Flower Drum,105,Veg Spring Rolls,200.00,Veg,70,4.2
+Thalapakatti,111,Mutton Biryani,420.00,Non-Veg,60,4.9
+Thalapakatti,112,Chicken Biryani,350.00,Non-Veg,80,4.8
+Thalapakatti,113,Chicken 65,290.00,Non-Veg,70,4.7
+Thalapakatti,114,Mutton Sukka,380.00,Non-Veg,50,4.8
+Thalapakatti,115,Mutton Kola Urundai,350.00,Non-Veg,45,4.9
+McDonalds,131,McAloo Tikki Burger,90.00,Veg,200,4.0
+McDonalds,132,Maharaja Mac,280.00,Non-Veg,100,4.4
+McDonalds,133,Large Fries,150.00,Veg,300,4.3
+McDonalds,134,McFlurry,120.00,Veg,150,4.5
+McDonalds,135,Chicken McNuggets,220.00,Non-Veg,120,4.2
+Dominos,141,Margherita Pizza,350.00,Veg,80,4.2
+Dominos,142,Pepperoni Pizza,550.00,Non-Veg,70,4.6
+Dominos,143,Garlic Breadsticks,140.00,Veg,150,4.4
+Dominos,144,Choco Lava Cake,110.00,Veg,200,4.8
+Dominos,145,Veg Extravaganza,580.00,Veg,60,4.5
+Bilal,201,Mutton Sheek Kebab,320.00,Non-Veg,50,4.7
+Bilal,202,Tandoori Chicken,450.00,Non-Veg,40,4.6
+Bilal,203,Butter Naan,60.00,Veg,100,4.4
+Bilal,204,Paneer Tikka,280.00,Veg,60,4.5
+Bilal,205,Kadai Chicken,380.00,Non-Veg,45,4.6
+Murugan Idli Shop,211,14 Mini Idlis,120.00,Veg,150,4.9
+Murugan Idli Shop,212,Ghee Podi Dosa,160.00,Veg,100,4.8
+Murugan Idli Shop,213,Sweet Pongal,90.00,Veg,80,4.7
+Murugan Idli Shop,214,Onion Uthappam,140.00,Veg,90,4.6
+Murugan Idli Shop,215,Jigarthanda,100.00,Veg,120,4.9
+Farzi Cafe,221,Dal Chawal Arancini,450.00,Veg,30,4.5
+Farzi Cafe,222,Tempura Fried Prawns,650.00,Non-Veg,25,4.6
+Farzi Cafe,223,Chicken Tikka Masala,580.00,Non-Veg,35,4.7
+Farzi Cafe,224,Butter Naan,120.00,Veg,50,4.3
+Farzi Cafe,225,Virgin Mojito,250.00,Veg,80,4.4
+Pizza Hut,231,Veggie Supreme,480.00,Veg,50,4.3
+Pizza Hut,232,Chicken Tikka Pizza,580.00,Non-Veg,45,4.5
+Pizza Hut,233,Garlic Bread Supreme,180.00,Veg,80,4.6
+Pizza Hut,234,Spicy Chicken Keema Pizza,620.00,Non-Veg,40,4.7
+Pizza Hut,235,Pepsi,80.00,Veg,200,4.0
+A2B,241,Ghee Roast Dosa,150.00,Veg,120,4.8
+A2B,242,Mini Tiffin,180.00,Veg,100,4.6
+A2B,243,Filter Coffee,50.00,Veg,300,4.9
+A2B,244,Poori Masala,120.00,Veg,90,4.5
+A2B,245,Badam Milk,90.00,Veg,150,4.7
+Barbeque Nation,301,Non-Veg Grill Buffet,899.00,Non-Veg,200,4.7
+Barbeque Nation,302,Veg Grill Buffet,799.00,Veg,150,4.6
+Barbeque Nation,303,Cajun Spiced Potato,350.00,Veg,80,4.5
+Barbeque Nation,304,Kulfi Platter,250.00,Veg,100,4.8
+Barbeque Nation,305,Iced Tea,150.00,Veg,120,4.2
+Steam & Whistles,311,Fish and Chips,550.00,Non-Veg,40,4.5
+Steam & Whistles,312,Classic Chicken Burger,480.00,Non-Veg,50,4.6
+Steam & Whistles,313,Arrabbiata Pasta,450.00,Veg,60,4.4
+Steam & Whistles,314,Chocolate Milkshake,250.00,Veg,70,4.7
+Steam & Whistles,315,New York Cheesecake,350.00,Veg,40,4.8
+J Hind,321,Awadhi Lamb Shank,950.00,Non-Veg,20,4.8
+J Hind,322,Paneer Lababdar,650.00,Veg,30,4.7
+J Hind,323,Garlic Naan,150.00,Veg,50,4.5
+J Hind,324,Shahi Tukda,350.00,Veg,40,4.9
+J Hind,325,Masala Lassi,200.00,Veg,60,4.6
+Absolute Barbeque,331,Wish Grill Buffet,950.00,Non-Veg,200,4.8
+Absolute Barbeque,332,Brazilian Pineapple Grill,250.00,Veg,100,4.7
+Absolute Barbeque,333,Crispy Corn,280.00,Veg,90,4.6
+Absolute Barbeque,334,Angoori Gulab Jamun,200.00,Veg,120,4.9
+Absolute Barbeque,335,Fresh Lime Soda,120.00,Veg,150,4.3
+Taco Bell,401,Crunchy Taco Supreme,180.00,Non-Veg,100,4.3
+Taco Bell,402,7-Layer Burrito,250.00,Veg,80,4.4
+Taco Bell,403,Chicken Chalupa,220.00,Non-Veg,90,4.5
+Taco Bell,404,Cheese Quesadilla,280.00,Veg,70,4.6
+Taco Bell,405,Cinnamon Twists,90.00,Veg,150,4.2
+Pind,411,Dal Makhani,400.00,Veg,60,4.7
+Pind,412,Butter Chicken,550.00,Non-Veg,50,4.8
+Pind,413,Tandoori Roti,70.00,Veg,100,4.4
+Pind,414,Sweet Lassi,150.00,Veg,80,4.6
+Pind,415,Amritsari Kulcha Chole,350.00,Veg,70,4.7
+Burger King,421,Mutton Whopper,350.00,Non-Veg,90,4.5
+Burger King,422,Veggie Burger,180.00,Veg,120,4.2
+Burger King,423,Chicken Fries,200.00,Non-Veg,100,4.3
+Burger King,424,Medium Fries,130.00,Veg,200,4.1
+Burger King,425,Thick Shake,180.00,Veg,150,4.6
+Krispy Kreme,431,Original Glazed Doughnut,110.00,Veg,200,4.9
+Krispy Kreme,432,Chocolate Dreamcake,150.00,Veg,150,4.8
+Krispy Kreme,433,Iced Coffee,220.00,Veg,100,4.5
+Krispy Kreme,434,Box of 6 Assorted,600.00,Veg,80,4.9
+Krispy Kreme,435,Chocolate Milkshake,250.00,Veg,90,4.6
+Nescafe,441,Cappuccino,180.00,Veg,150,4.4
+Nescafe,442,Classic Latte,190.00,Veg,140,4.5
+Nescafe,443,Iced Tea,150.00,Veg,120,4.2
+Nescafe,444,Chicken Tikka Sandwich,250.00,Non-Veg,80,4.6
+Nescafe,445,Chocolate Muffin,130.00,Veg,100,4.3
+Asia7,501,Sushi Platter,800.00,Non-Veg,30,4.6
+Asia7,502,Chicken Dim Sum,450.00,Non-Veg,40,4.7
+Asia7,503,Thai Green Curry,550.00,Veg,50,4.5
+Asia7,504,Chicken Ramen,600.00,Non-Veg,35,4.8
+Asia7,505,Jasmine Rice,200.00,Veg,80,4.3
+Pakwan,511,Paneer Tikka Masala,380.00,Veg,50,4.5
+Pakwan,512,Veg Biryani,350.00,Veg,60,4.4
+Pakwan,513,Butter Roti,60.00,Veg,100,4.2
+Pakwan,514,Jeera Rice,200.00,Veg,80,4.3
+Pakwan,515,Gulab Jamun,120.00,Veg,90,4.7
+Udupi Hotel,521,Masala Dosa,100.00,Veg,150,4.3
+Udupi Hotel,522,Plate of Idli,70.00,Veg,200,4.4
+Udupi Hotel,523,Medu Vada,80.00,Veg,180,4.5
+Udupi Hotel,524,Rava Kichadi,90.00,Veg,120,4.2
+Udupi Hotel,525,Filter Coffee,40.00,Veg,300,4.8
+Kaithi,531,Parotta with Chicken Salna,150.00,Non-Veg,100,4.7
+Kaithi,532,Kothu Parotta,180.00,Non-Veg,90,4.8
+Kaithi,533,Egg Dosa,120.00,Non-Veg,120,4.5
+Kaithi,534,Chicken Chettinad,250.00,Non-Veg,70,4.6
+Kaithi,535,Goli Soda,30.00,Veg,250,4.2
+Popeyes,541,Classic Chicken Sandwich,350.00,Non-Veg,80,4.8
+Popeyes,542,Cajun Fries,150.00,Veg,150,4.5
+Popeyes,543,Coleslaw,100.00,Veg,120,4.2
+Popeyes,544,Signature Biscuits (2pc),120.00,Veg,100,4.6
+Popeyes,545,Coca-Cola,80.00,Veg,200,4.0
+KFC,121,Zinger Burger,250.00,Non-Veg,100,4.5
+KFC,122,8pc Hot Wings,400.00,Non-Veg,80,4.7
+KFC,123,Popcorn Chicken,180.00,Non-Veg,120,4.6
+KFC,125,Classic Chicken Bucket,650.00,Non-Veg,50,4.8
+KFC,126,Veg Sandwich,120.00,Veg,15,3.9
